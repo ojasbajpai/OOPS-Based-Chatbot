@@ -1,0 +1,21 @@
+hi
+Hello! Welcome to Sales. Looking for a new course to join?
+pricing
+Our annual plan is ₹9,999, and the monthly subscription is ₹999.
+discount
+We currently have a 20% off promotion for new students using code NEW20.
+courses
+We offer top-tier certifications in Data Science and Full-Stack Development.
+demo
+You can book a free demo session through the 'Courses' page on our website.
+enroll
+You can enroll directly through the payment portal after creating an account.
+payment
+We accept all major credit cards, UPI, and net banking options.
+offer
+Check out our 'Bundle Deals' section for discounts on multiple course purchases.
+join
+Join thousands of students and start your journey today!
+expert
+Our instructors are industry experts with over 10 years of experience.saste
+chal be gareeb

@@ -1,0 +1,25 @@
+hi
+Hello! Welcome to Support. How can I assist you with your account today?
+refund
+Our refund policy allows for a full refund within 7 days of enrollment.
+login
+If you are having login issues, please reset your password via the 'Forgot Password' link.
+certificate
+Certificates are issued within 48 hours of course completion.
+password
+You can reset your password using the 'Forgot Password' button on the login screen.
+account
+To update your account details, go to your profile settings after logging in.
+email
+You can reach our support team at support@edtech.com.
+feedback
+We value your feedback! Please send your suggestions to feedback@edtech.com.
+status
+Your request is currently being processed by our support team.
+help
+I'm here to help! Tell me your issue regarding login, refund, or certificates.hate 
+WE SHOULD ALWAYS LOVE 
+change 
+USE LOWER CASE 
+saste
+gasti

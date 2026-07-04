@@ -1,0 +1,25 @@
+hi
+Hello! Technical-AI here. Describe the bug or error you are facing.
+error
+Please provide the error code or a screenshot for faster troubleshooting.
+lag
+Ensure your browser is updated and try clearing your cache.
+api
+If you are facing API issues, check the documentation at docs.edtech.com.
+slow
+If the platform is slow, please check your internet connection and restart your browser.
+loading
+If videos are not loading, try switching to a lower resolution or using a different browser.
+crash
+If the app crashes, please reinstall the latest version from our download page.
+update
+Always keep your app updated to the latest version for the best experience.
+compatibility
+Our platform works best on Chrome, Firefox, and Edge browsers.
+troubleshoot
+Please try logging out and logging back in to resolve most sync issues.ai slop
+Slop
+team
+PW Desh ka raja hai 
+change 
+change ai 
